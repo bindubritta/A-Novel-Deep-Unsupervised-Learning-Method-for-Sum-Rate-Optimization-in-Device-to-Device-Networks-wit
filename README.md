@@ -19,11 +19,11 @@ There are three groups of datasets, as follows:
 - List of Colab code files:
 1. Generating feasible datasets for the transmission channel parameters
 2. Codes for analyzing the PCNet/PCNet+ models
-(a) PCNet model: For training with a given background noise power
-(b) PCNet+ model: For enhanced generalization capacity
+- PCNet model: For training with a given background noise power
+- PCNet+ model: For enhanced generalization capacity
 3. Codes for analyzing the Proposed Model
-(a) For training with a given background noise power
-(b) For enhanced generalization capacity
+- For training with a given background noise power
+- For enhanced generalization capacity
 4. Codes for analyzing the Model A
 
 ## References

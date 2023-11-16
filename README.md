@@ -16,3 +16,7 @@ There are three groups of datasets, as follows:
 ## List of files
 - README.md : README file
 - Project Presentation.pdf : Slides for presentations
+
+## References
+1. B. Acharjee, M. Hanif and O. Waqar, "Deep Unsupervised Learning for Optimization With Box and Monotone-Matrix Based Polytope Constraints: A Case-Study of D2D Wireless Networks," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2023.3316114.
+2. link for the thesis report: https://arcabc.ca/islandora/object/tru%3A6263?solr_nav%5Bid%5D=812994808783a9d1ed2a&solr_nav%5Bpage%5D=4450&solr_nav%5Boffset%5D=7

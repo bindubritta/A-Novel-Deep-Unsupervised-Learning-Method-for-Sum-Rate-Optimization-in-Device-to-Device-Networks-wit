@@ -6,7 +6,7 @@ This project introduces a new Deep Unsupervised Learning (DUL) approach based on
 ## Feasible Datasets for the Transmission Channel Parameters
 In total, 55 feasible different datasets have been generated to analyze the model’s performance, which totals 22.1 GB.
 
-Link for datasets: https://1drv.ms/f/s!ApktXr3Tu2RWgtQPgQM8qhtPgzYmgw?e=KNdtfu
+Link for datasets: https://1drv.ms/f/s!ApktXr3Tu2RWgtQPgQM8qhtPgzYmgw?e=Rnnx9J
 
 There are three groups of datasets, as follows:
 1. Dataset Group A: 35 datasets for K = 5, EsN0 = [0 dB, 10 dB, 20 dB, 30 dB, 40 dB, 50 dB, 60 dB], and five scenarios of SINRmin = 0.5. The total size of these datasets is 11.1 GB.

@@ -17,14 +17,14 @@ There are three groups of datasets, as follows:
 - README.md : README file
 - Project Presentation.pdf : Slides for presentations
 - List of Colab code files:
-  - Generating feasible datasets for the transmission channel parameters
+  - FeasibleHGeneration.ipynb : Generating feasible datasets for the transmission channel parameters
   - Codes for analyzing the PCNet/PCNet+ models
-    - PCNet model: For training with a given background noise power
-    - PCNet+ model: For enhanced generalization capacity
+    - PCNet.ipynb : PCNet model - For training with a given background noise power
+    - PCNetGeneral.ipynb : PCNet+ model - For enhanced generalization capacity
   - Codes for analyzing the Proposed Model
-    - For training with a given background noise power
-    - For enhanced generalization capacity
-  - Codes for analyzing the Model A
+    - ProposedModel.ipynb : For training with a given background noise power
+    - ProposedModelGeneral.ipynb : For enhanced generalization capacity
+  - ProposedModelA.ipynb : Codes for analyzing the Model A
 
 ## References
 1. B. Acharjee, M. Hanif and O. Waqar, "Deep Unsupervised Learning for Optimization With Box and Monotone-Matrix Based Polytope Constraints: A Case-Study of D2D Wireless Networks," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2023.3316114; https://ieeexplore.ieee.org/document/10251980.
